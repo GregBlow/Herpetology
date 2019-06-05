@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T18:48:19+01:00
+
+====== Rorscharch abduction ======
+Created Wednesday 05 June 2019
+
+Mother Haggle, apropos of nothing, sudenly declares that she has a fearful premonition that badduns are going to try to steal away Caramel. Would the party go and fetch Caramel that they might be brought inside to avoid anyone getting hurt.
+
+At this point the party can look down to the end of the paddock and see Caramel munching on grass quite happily. 
+
+After 10 minutes or if the party moves to secure Caramel as per request a group of goblins will rush Caramel and grab the halter, pulling them back into the forest. 
+
+The party will then be attacked from the cover of the forest unless they were in range to force the goblins to skirmish in the open.
+
+Pursuing their quarry, the party can follow some clear tracks (3 * Survival DC: 5) through the forest . A wrong turn may lead to a dark cave containing a [[./Entities/Brown_Bear.txt|bear]] that is trying to hibernate, and will respond with acute annoyance to light. Can be heard snoring and has disadvantage on perception checks.
+
+A failure will allow the party to backtrack to the site of their failure and resume, automatically silently succeeding on subsequent checks (Roll required).
+
+The third and final check will  go to a [[./Entities/Net_Trap.txt|net trap]] scenario and a view of a lake in the direction of the tracks.
+
+The party reaches the tree line and finds themselves squelching into muddy ground amongst long grass and bullrushes along the shore of a marshy lake. 
+
+Looking down the shoreline to the left the party can see bullywugs moving amongst the bodies of goblins. 
+
+If 

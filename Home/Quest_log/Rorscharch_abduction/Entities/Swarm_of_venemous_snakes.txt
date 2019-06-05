@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T19:45:25+01:00
+
+====== Swarm of venemous snakes ======
+Created Wednesday 05 June 2019
+
+Attributes:
+
+**AC:** 14
+**HP:** 36 8d8
+**Speed:** 30ft, swim 30 ft.
+
+**STR:** 8 (-1), DEX: 18 (+4), CON: 11 (0), INT: 1 (-5), WIS: 10 (0), CHA: 3 (-4) 
+
+**Damage Resistance:** Bludgeoning, Piercing, Slashing
+**Condition Immunities:** Charmed, Frightened, Grappled, Paralyzed, Restrained, Stunned
+**Senses:** Blindsight 10ft, passive perception 10
+**CR:** 2
+
+**Traits:**
+
+Swarm: //The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a tiny snake. The swarm can't regain hit points or gain temporary hit points.//
+
+**Actions:**
+
+Bites: //Melee Weapon Attack: +6 to it, reach 0 ft., one creature in the swarm's space. Hit: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 constitution saving throw, taking 4d6 poison damage over 10 turns on a failed save, or half as much damage on a successful one. With two failed saves in a row, they are paralyzed.//
+
+//Venom effect ends on another create performing a successful DC 13 Medicine check// //on the subject. All attempts after the first are made with disadvantage//
+
+

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T19:37:39+01:00
+
+====== Net Trap ======
+Created Wednesday 05 June 2019
+
+A trip wire hidden beneath leaf litter triggers a basket of rocks to fall, and a net trap to rise. The triggering  entity is raised 5 feet off the ground and restrained, the basket of rocks pulls with it a fragile cage of sticks containing a [[../Swarm_of_venemous_snakes.txt|swarm of venemous snakes]] that breaks apart when it hits the ground. 
+
+A DC 10 strength check allows a creature to free itself or another creature from the net. Dealing 5 slashing damage to the net (AC 10, 20hp) also frees a creature without harming the creature.
+
+Peception check: DC 17 if checking the forest ahead for enemies, DC 13 if checking the floor, DC9 if checking the leaf litter.
