@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-06T17:38:55+01:00
+
+====== Goat ======
+Created Thursday 06 June 2019
+
+AC: 10
+HP: 4 (1d8)
+Speed: 40 ft.
+STR: 12 (+1), DEX: 10 (0), CON: 11 (0), INT: 2(-4), WIS: 10 (0), CHA: 5 (-3)
+
+Senses: passive perception 10
+CR: 0
+
+Charge: If the goat moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creatgure, it must succeed on a DC 10 STR saving throw or by knocked prone.
+
+Sure-footed: The goat has advantage on STR and DEX saving throws made against effects that would knock it prone.
+
+Actions:
+
+Ram: Melee weapon attack, +3 to hit, reach 5 ft., one target. Hit: 1d4 + 1 bludgeoning
