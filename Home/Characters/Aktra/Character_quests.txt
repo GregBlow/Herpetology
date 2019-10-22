@@ -5,3 +5,4 @@ Creation-Date: 2019-06-05T18:47:46+01:00
 ====== Character quests ======
 Created Wednesday 05 June 2019
 
+Accept or refuse war leadership role, develop cult of Gruumsh
