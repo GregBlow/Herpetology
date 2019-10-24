@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Ptahqwin.svg">
+   sodipodi:docname="Aktra.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,19 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="211.4906"
-     inkscape:cy="849.52127"
+     inkscape:zoom="1.979899"
+     inkscape:cx="174.33231"
+     inkscape:cy="218.05712"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="958"
-     inkscape:window-height="1008"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4136" />
@@ -268,7 +268,7 @@
          x="179.5128"
          y="298.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan4410">Slight of Hand</tspan><tspan
+         id="tspan4410">Sleight of Hand</tspan><tspan
          sodipodi:role="line"
          x="179.5128"
          y="310.81586"
@@ -430,7 +430,7 @@
        y="225.23714"
        id="text4160-4-1-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="225.23714"
          id="tspan4166-9-8-7"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -482,7 +482,7 @@
        y="289.52286"
        id="text4160-4-1-0-5"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="289.52286"
          id="tspan4166-9-8-7-5"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -534,7 +534,7 @@
        y="355.23712"
        id="text4160-4-1-0-5-2"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="355.23712"
          id="tspan4166-9-8-7-5-8"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -586,7 +586,7 @@
        y="428.2778"
        id="text4160-4-1-0-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="428.2778"
          id="tspan4166-9-8-7-2"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -638,7 +638,7 @@
        y="504.70636"
        id="text4160-4-1-0-5-1"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="504.70636"
          id="tspan4166-9-8-7-5-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -690,7 +690,7 @@
        y="580.42065"
        id="text4160-4-1-0-5-2-6"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="580.42065"
          id="tspan4166-9-8-7-5-8-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -1314,18 +1314,18 @@
          sodipodi:role="line"
          id="tspan1647"
          x="384.62918"
-         y="211.97223">3d6</tspan></text>
+         y="211.97223">3d8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="333.11136"
-       y="132.67525"
+       y="133.14876"
        id="text4282"><tspan
          sodipodi:role="line"
          id="tspan4284"
          x="333.11136"
-         y="132.67525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">11</tspan></text>
+         y="133.14876"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">20</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1336,7 +1336,7 @@
          id="tspan4284-0"
          x="408.8728"
          y="132.67525"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1347,7 +1347,7 @@
          id="tspan4284-05"
          x="480.08856"
          y="132.67525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">17</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">24</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1369,7 +1369,7 @@
          id="tspan4284-0-2"
          x="37.012527"
          y="235.16005"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">-1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1391,7 +1391,7 @@
          id="tspan4284-0-2-1-1"
          x="123.74545"
          y="257.28214"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">8</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">16</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1402,7 +1402,7 @@
          id="tspan4284-0-2-9"
          x="37.012527"
          y="299.44577"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1413,7 +1413,7 @@
          id="tspan4284-0-2-1-4"
          x="119.19975"
          y="296.06149"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">0</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1424,7 +1424,7 @@
          id="tspan4284-0-2-1-1-5"
          x="122.99527"
          y="321.56784"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">13</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">10</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1479,7 +1479,7 @@
          id="tspan4284-0-2-1-4-0"
          x="116.34261"
          y="511.24503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1512,7 +1512,7 @@
          id="tspan4284-0-2-1-4-3-5"
          x="117.77118"
          y="586.95929"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1523,7 +1523,7 @@
          id="tspan4284-0-2-1-1-5-8-3"
          x="123.70956"
          y="612.46564"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">10</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">12</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1534,7 +1534,7 @@
          id="tspan4284-0-2-7"
          x="37.012527"
          y="438.20071"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">-1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1545,7 +1545,7 @@
          id="tspan4284-0-2-1-5"
          x="116.34261"
          y="434.81644"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">-1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1556,7 +1556,7 @@
          id="tspan4284-0-2-1-1-6"
          x="124.42384"
          y="460.32278"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">17</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1567,7 +1567,7 @@
          x="158.72311"
          y="223.31584"
          style="font-size:10px;line-height:1.25"
-         id="tspan4438-8">-1</tspan><tspan
+         id="tspan4438-8">+3</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="235.81584"
@@ -1592,17 +1592,17 @@
          x="158.72311"
          y="285.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5530">+1</tspan><tspan
+         id="tspan5530">0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="298.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5532">+1</tspan><tspan
+         id="tspan5532">0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="310.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5534">+1</tspan><tspan
+         id="tspan5534">0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="323.31586"
@@ -1647,27 +1647,27 @@
          x="158.72311"
          y="423.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5560">+5</tspan><tspan
+         id="tspan5560">-1</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="435.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5562">+5</tspan><tspan
+         id="tspan5562">-1</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="448.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5564">+5</tspan><tspan
+         id="tspan5564">-1</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="460.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5566">+3</tspan><tspan
+         id="tspan5566">-1</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="473.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5568">+3</tspan><tspan
+         id="tspan5568">+1</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="485.81586"
@@ -1682,12 +1682,12 @@
          x="158.72311"
          y="510.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5538">+2</tspan><tspan
+         id="tspan5538">+4</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="523.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5580">+2</tspan><tspan
+         id="tspan5580">+4</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="535.81586"
@@ -1712,7 +1712,7 @@
          x="158.72311"
          y="585.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5590">+1</tspan><tspan
+         id="tspan5590">+3</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="598.31586"
@@ -1737,7 +1737,7 @@
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
        id="path5481"
        cx="152.18619"
-       cy="445.66425"
+       cy="583.15692"
        r="2.5" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
@@ -1748,8 +1748,8 @@
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
        id="path5481-2"
-       cx="151.9866"
-       cy="433.03354"
+       cx="152.46011"
+       cy="520.69525"
        r="2.5" />
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
@@ -1760,8 +1760,8 @@
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
        id="path5481-72"
-       cx="81.964287"
-       cy="494.87601"
+       cx="81.686905"
+       cy="494.61636"
        r="2.5" />
     <text
        xml:space="preserve"
@@ -1773,7 +1773,7 @@
          id="tspan4284-07"
          x="416.86734"
          y="266.84985"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">+5</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">+4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1784,7 +1784,7 @@
          id="tspan4284-07-2"
          x="491.53558"
          y="266.84985"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">13</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">12</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1794,7 +1794,7 @@
          sodipodi:role="line"
          id="tspan1645"
          x="336.25064"
-         y="266.46823">INT</tspan></text>
+         y="266.46823">WIS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1826,8 +1826,8 @@
          sodipodi:role="line"
          id="tspan4225-7"
          x="36.131416"
-         y="701.43524"
-         style="font-size:12.5px;line-height:1.25">Cards</tspan></text>
+         y="704.88318"
+         style="font-size:12.5px;line-height:1.25" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1835,10 +1835,15 @@
        y="780.79279"
        id="text4223-85-2"><tspan
          sodipodi:role="line"
-         id="tspan4225-7-1"
          x="36.131416"
          y="780.79279"
-         style="font-size:12.5px;line-height:1.25">Common, Draconic, Gnomish</tspan></text>
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan4333">Lizard Person (Low Draconic),</tspan><tspan
+         sodipodi:role="line"
+         x="36.131416"
+         y="796.41779"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan5075"> Orcish</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1849,7 +1854,7 @@
          x="36.131416"
          y="842.93567"
          style="font-size:10px;line-height:1.25"
-         id="tspan5973">dart, dagger, stave, sling, light crossbow</tspan></text>
+         id="tspan4354">All weapons, all armour</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1870,147 +1875,122 @@
          x="571.52362"
          y="162.4196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1421">Speak with small beasts:</tspan><tspan
+         id="tspan4552">Savage Attack (+1d on crit)</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="174.9196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1585">Through sound and gestures, </tspan><tspan
+         id="tspan5065"> </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="187.4196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1587">you may communicate simple </tspan><tspan
+         id="tspan5067">Relentless Endurance (1pLR)</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="199.9196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1591">ideas with Small or smaller </tspan><tspan
+         id="tspan5069">When reduced to 0hp, instead</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="212.4196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1595">beasts.</tspan><tspan
+         id="tspan5071">be reduced to 1hp</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="224.9196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1597"> </tspan><tspan
+         id="tspan5121"> </tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="231.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan5113" /><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="231.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan5115"></tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="237.4196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1599">Gnome cunning: </tspan><tspan
+         id="tspan5119">Channel Divinity (1/sr): </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="249.9196"
          style="font-size:10px;line-height:1.25"
-         id="tspan1601">You have advantage on all </tspan><tspan
+         id="tspan5129"> </tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="256.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan5123"></tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="262.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1603">intelligence, wisdom, and </tspan><tspan
+         id="tspan5127">Guided Strike (+10 Att. Roll)</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="274.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1605">charisma saves against magic.</tspan><tspan
+         id="tspan5131">Turn Undead</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="287.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1607"> </tspan><tspan
+         id="tspan5133"> </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="299.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1609">Arcane recovery:</tspan><tspan
+         id="tspan5135">Warpriest (WIS(2)/LR):</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="312.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1611">choose expended spell slots to </tspan><tspan
+         id="tspan5141">Attack as bonus action after</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="324.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1613">recover. The spell slots can </tspan><tspan
+         id="tspan5143">attack action</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="337.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1615">have a combined level that </tspan><tspan
+         id="tspan5137"> </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="349.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1617">is equal to or less than half </tspan><tspan
+         id="tspan5139"> </tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="356.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan5125" /><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="356.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan5117" /><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="356.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4554" /><tspan
          sodipodi:role="line"
          x="571.52362"
          y="362.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1619">your wizard level (rounded up),</tspan><tspan
+         id="tspan1607"> </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
-         y="374.91962"
+         y="369.24426"
          style="font-size:10px;line-height:1.25"
-         id="tspan1621">and none of the slots can be </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="387.41962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1623">6th level or higher.</tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="394.24426"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1625" /><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="394.24426"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1627" /><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="399.91962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1409"> </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="412.41962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1633">Minor Alchemy:</tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="424.91962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1635">Temporarily change one</tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="437.41962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1637">substance composed entirely </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="449.91962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1639">of wood, stone (but not </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="462.41962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1643">gemstone), iron, copper, or </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="474.91962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1648">silver into another such </tspan><tspan
-         sodipodi:role="line"
-         x="571.52362"
-         y="487.41962"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1650">substance.</tspan></text>
+         id="tspan1650" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2021,22 +2001,17 @@
          x="319.1149"
          y="585.41528"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6411">Firebolt</tspan><tspan
+         id="tspan4365">Thaumaturgy</tspan><tspan
          sodipodi:role="line"
          x="319.1149"
          y="601.04028"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan1663">Minor illusion</tspan><tspan
+         id="tspan5090">Spare the dying</tspan><tspan
          sodipodi:role="line"
          x="319.1149"
          y="616.66528"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan1226">Mending</tspan><tspan
-         sodipodi:role="line"
-         x="319.1149"
-         y="632.29028"
-         style="font-size:12.5px;line-height:1.25"
-         id="tspan1228">Message</tspan></text>
+         id="tspan5092">Guidance</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2069,7 +2044,7 @@
          x="291.63278"
          y="375.64301"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6095-4">Light crossbow</tspan><tspan
+         id="tspan6095-4">Warhammer</tspan><tspan
          sodipodi:role="line"
          x="291.63278"
          y="391.26801"
@@ -2077,9 +2052,9 @@
          id="tspan6751"> </tspan><tspan
          sodipodi:role="line"
          x="291.63278"
-         y="406.89301"
+         y="398.93683"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759">Dagger</tspan></text>
+         id="tspan6759" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2090,7 +2065,7 @@
          x="387.48325"
          y="372.07156"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6095-4-5">+3</tspan><tspan
+         id="tspan6095-4-5">+5</tspan><tspan
          sodipodi:role="line"
          x="387.48325"
          y="387.69656"
@@ -2098,9 +2073,9 @@
          id="tspan6794"> </tspan><tspan
          sodipodi:role="line"
          x="387.48325"
-         y="403.32156"
+         y="395.36539"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-3">+3</tspan></text>
+         id="tspan6759-3" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2111,7 +2086,7 @@
          x="419.62613"
          y="372.07156"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6095-4-3">1d6+1</tspan><tspan
+         id="tspan6095-4-3">1d8+3</tspan><tspan
          sodipodi:role="line"
          x="419.62613"
          y="387.69656"
@@ -2119,47 +2094,52 @@
          id="tspan6751-6"> </tspan><tspan
          sodipodi:role="line"
          x="419.62613"
-         y="403.32156"
+         y="395.36539"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-1">1d4+1</tspan></text>
+         id="tspan6759-1" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="115.359"
-       y="40.330746"
+       y="49.036102"
        id="text6948"><tspan
          sodipodi:role="line"
-         id="tspan6950"
          x="115.359"
-         y="40.330746"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Castellar;-inkscape-font-specification:'Castellar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Ptahqwin </tspan><tspan
-         sodipodi:role="line"
-         x="115.359"
-         y="60.643246"
+         y="49.036102"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Castellar;-inkscape-font-specification:'Castellar, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan1224">Ptahqwinius</tspan></text>
+         id="tspan1224">Aktra</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="314.46936"
-       y="38.490063"
+       y="31.123991"
        id="text4223-85-3-4-0"><tspan
          sodipodi:role="line"
          x="314.46936"
-         y="38.490063"
+         y="31.123991"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7">Wizard : 3</tspan></text>
+         id="tspan6759-7">Cleric : 3</tspan><tspan
+         sodipodi:role="line"
+         x="314.46936"
+         y="46.748993"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan3171">(War)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="422.50348"
-       y="39.437038"
+       x="434.81473"
+       y="32.807911"
        id="text4223-85-3-4-0-0"><tspan
          sodipodi:role="line"
-         x="422.50348"
-         y="39.437038"
+         x="434.81473"
+         y="32.807911"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7-1">Forest Gnome</tspan></text>
+         id="tspan6759-7-1">Half-orc, </tspan><tspan
+         sodipodi:role="line"
+         x="434.81473"
+         y="48.432911"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan4568">half-lizardperson</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2170,7 +2150,7 @@
          x="549.4693"
          y="38.490059"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7-1-5">Waterdhavian Noble</tspan></text>
+         id="tspan6759-7-1-5">Acolyte</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2192,37 +2172,57 @@
          x="317.90662"
          y="894.98712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1484">Light Crossbow</tspan><tspan
+         id="tspan4445">Serpentina's Potion of Speak with Beasts</tspan><tspan
          sodipodi:role="line"
          x="317.90662"
          y="907.48712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1364">Dagger</tspan><tspan
+         id="tspan5154">Platemail Armour</tspan><tspan
          sodipodi:role="line"
          x="317.90662"
          y="919.98712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1366">Component Pouch</tspan><tspan
+         id="tspan5156">Potion of 2d4 + 2 healing</tspan><tspan
          sodipodi:role="line"
          x="317.90662"
          y="932.48712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1368">Chain of Compulsion</tspan><tspan
-         sodipodi:role="line"
-         x="317.90662"
-         y="939.31177"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1370" /><tspan
+         id="tspan5158">Warhammer</tspan><tspan
          sodipodi:role="line"
          x="317.90662"
          y="944.98712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1372">Minor health potion</tspan><tspan
+         id="tspan4447">Camping gear</tspan><tspan
+         sodipodi:role="line"
+         x="317.90662"
+         y="951.81177"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4449" /><tspan
          sodipodi:role="line"
          x="317.90662"
          y="957.48712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1382">Spellbook</tspan></text>
+         id="tspan4451">Rope (50ft)</tspan><tspan
+         sodipodi:role="line"
+         x="317.90662"
+         y="964.31177"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4453" /><tspan
+         sodipodi:role="line"
+         x="317.90662"
+         y="969.98712"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4455">Gold (200)</tspan><tspan
+         sodipodi:role="line"
+         x="317.90662"
+         y="982.48712"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4461">Zuccini</tspan><tspan
+         sodipodi:role="line"
+         x="317.90662"
+         y="989.31177"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4463" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2233,7 +2233,7 @@
          x="297.17355"
          y="388.56061"
          style="font-size:10px;line-height:1.25"
-         id="tspan6759-1-4-8">20/60</tspan></text>
+         id="tspan6759-1-4-8">Melee</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2242,9 +2242,9 @@
        id="text4223-85-3-4-1-3-6-6"><tspan
          sodipodi:role="line"
          x="297.17355"
-         y="420.70346"
+         y="424.15143"
          style="font-size:10px;line-height:1.25"
-         id="tspan6759-1-4-8-7">melee or 20/60</tspan></text>
+         id="tspan3345" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2255,7 +2255,7 @@
          x="469.31641"
          y="370.70346"
          style="font-size:10px;line-height:1.25"
-         id="tspan6759-1-4-8-8">piercing</tspan></text>
+         id="tspan6759-1-4-8-8">bludgeoning</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2264,9 +2264,9 @@
        id="text4223-85-3-4-1-3-6-6-6"><tspan
          sodipodi:role="line"
          x="469.31641"
-         y="402.84631"
+         y="406.29428"
          style="font-size:10px;line-height:1.25"
-         id="tspan6759-1-4-8-7-0">piercing</tspan></text>
+         id="tspan6759-1-4-8-7-0" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2275,44 +2275,14 @@
        id="text4223-85-32-6-4"><tspan
          sodipodi:role="line"
          x="534.33521"
-         y="894.98712"
+         y="898.43506"
          style="font-size:10px;line-height:1.25"
-         id="tspan5058">Negotiator's badge</tspan><tspan
+         id="tspan1652" /><tspan
          sodipodi:role="line"
          x="534.33521"
-         y="907.48712"
+         y="898.43506"
          style="font-size:10px;line-height:1.25"
-         id="tspan1468">Moorland pony</tspan><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="919.98712"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1470">Notebooks</tspan><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="932.48712"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1374">Fountain Pen</tspan><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="944.98712"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1376">Inkwell</tspan><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="951.81177"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1474" /><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="957.48712"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1478">Cape</tspan><tspan
-         sodipodi:role="line"
-         x="534.33521"
-         y="969.98712"
-         style="font-size:10px;line-height:1.25"
-         id="tspan1652">100gp</tspan></text>
+         id="tspan4506" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2323,47 +2293,32 @@
          x="318.35989"
          y="718.70044"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1515">Tenser's floating disc</tspan><tspan
+         id="tspan4406">Bless</tspan><tspan
          sodipodi:role="line"
          x="318.35989"
          y="734.32544"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1239">Detect Magic</tspan><tspan
+         id="tspan5103">Detect Evil &amp; Good</tspan><tspan
          sodipodi:role="line"
          x="318.35989"
          y="749.95044"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1241">Comprehend Languages</tspan><tspan
+         id="tspan5105">Shield of Faith</tspan><tspan
          sodipodi:role="line"
          x="318.35989"
          y="765.57544"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1243">Identify</tspan><tspan
+         id="tspan5107">Cure Wounds</tspan><tspan
          sodipodi:role="line"
          x="318.35989"
          y="781.20044"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1245">Alarm</tspan><tspan
-         sodipodi:role="line"
-         x="318.35989"
-         y="796.82544"
-         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1247">Mage Armour</tspan><tspan
-         sodipodi:role="line"
-         x="318.35989"
-         y="812.45044"
-         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1249">Chromatic Orb</tspan><tspan
-         sodipodi:role="line"
-         x="318.35989"
-         y="828.07544"
-         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1251">Burning Hands</tspan></text>
+         id="tspan5145">Divine Favour</tspan></text>
     <circle
        style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
        id="path5481-25"
-       cx="151.52289"
-       cy="420.22766"
+       cx="151.85771"
+       cy="507.88327"
        r="2.5" />
     <text
        xml:space="preserve"
@@ -2375,12 +2330,17 @@
          x="480.40814"
          y="716.52496"
          style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
-         id="tspan1251-9">Shatter</tspan><tspan
+         id="tspan4411">Spiritual Weapon</tspan><tspan
          sodipodi:role="line"
          x="480.40814"
          y="732.14996"
          style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
-         id="tspan1327">Enlarge/Reduce</tspan></text>
+         id="tspan5111">Warding Bond</tspan><tspan
+         sodipodi:role="line"
+         x="480.40814"
+         y="747.77496"
+         style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
+         id="tspan5147">Magic Weapon</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2391,21 +2351,12 @@
          x="22.129953"
          y="928.11206"
          style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1382-2">Student, presently on gap year to </tspan><tspan
-         sodipodi:role="line"
-         x="22.129953"
-         y="940.61206"
-         style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1448">earn money.</tspan><tspan
-         sodipodi:role="line"
-         x="22.129953"
-         y="947.43671"
-         style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1654" /><tspan
-         sodipodi:role="line"
-         x="22.129953"
-         y="953.11206"
-         style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1656">Junior member of house Ptahquin of Waterdeep. </tspan></text>
+         id="tspan4352">No social knowledge</tspan></text>
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
+       id="path5481-25-0"
+       cx="152.17635"
+       cy="470.14606"
+       r="2.5" />
   </g>
 </svg>

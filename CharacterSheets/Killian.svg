@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="614.2465"
-     inkscape:cy="729.7022"
+     inkscape:zoom="3.959798"
+     inkscape:cx="399.11446"
+     inkscape:cy="1028.4972"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -430,7 +430,7 @@
        y="225.23714"
        id="text4160-4-1-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="225.23714"
          id="tspan4166-9-8-7"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -482,7 +482,7 @@
        y="289.52286"
        id="text4160-4-1-0-5"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="289.52286"
          id="tspan4166-9-8-7-5"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -534,7 +534,7 @@
        y="355.23712"
        id="text4160-4-1-0-5-2"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="355.23712"
          id="tspan4166-9-8-7-5-8"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -586,7 +586,7 @@
        y="428.2778"
        id="text4160-4-1-0-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="428.2778"
          id="tspan4166-9-8-7-2"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -638,7 +638,7 @@
        y="504.70636"
        id="text4160-4-1-0-5-1"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="504.70636"
          id="tspan4166-9-8-7-5-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -690,7 +690,7 @@
        y="580.42065"
        id="text4160-4-1-0-5-2-6"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="580.42065"
          id="tspan4166-9-8-7-5-8-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -1952,7 +1952,7 @@
          id="tspan1421">sunlight</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
-         y="331.68915"
+         y="331.74426"
          style="font-size:10px;line-height:1.25"
          id="tspan1409" /></text>
     <text
@@ -2070,14 +2070,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="314.46936"
-       y="38.490063"
+       x="302.15811"
+       y="29.493391"
        id="text4223-85-3-4-0"><tspan
          sodipodi:role="line"
-         x="314.46936"
-         y="38.490063"
+         x="302.15811"
+         y="29.493391"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7">Warlock : 3</tspan></text>
+         id="tspan1216">Warlock : 2</tspan><tspan
+         sodipodi:role="line"
+         x="302.15811"
+         y="45.118393"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan1220">Artificer : 1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
