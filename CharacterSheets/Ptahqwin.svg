@@ -27,18 +27,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="211.4906"
-     inkscape:cy="849.52127"
+     inkscape:cx="330.61218"
+     inkscape:cy="249.52127"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="958"
-     inkscape:window-height="1008"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4136" />
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -430,7 +430,7 @@
        y="225.23714"
        id="text4160-4-1-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="225.23714"
          id="tspan4166-9-8-7"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -482,7 +482,7 @@
        y="289.52286"
        id="text4160-4-1-0-5"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="289.52286"
          id="tspan4166-9-8-7-5"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -534,7 +534,7 @@
        y="355.23712"
        id="text4160-4-1-0-5-2"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="355.23712"
          id="tspan4166-9-8-7-5-8"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -586,7 +586,7 @@
        y="428.2778"
        id="text4160-4-1-0-0"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="428.2778"
          id="tspan4166-9-8-7-2"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -638,7 +638,7 @@
        y="504.70636"
        id="text4160-4-1-0-5-1"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="504.70636"
          id="tspan4166-9-8-7-5-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -690,7 +690,7 @@
        y="580.42065"
        id="text4160-4-1-0-5-2-6"><tspan
          sodipodi:role="line"
-         x="97.4422"
+         x="97.566711"
          y="580.42065"
          id="tspan4166-9-8-7-5-8-4"
          style="font-size:7.5px;line-height:1.25">SAVING </tspan><tspan
@@ -1081,7 +1081,7 @@
          id="tspan4229-9-4-6-4-2"
          x="320.07315"
          y="682.81903"
-         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">LEVEL 2:</tspan></text>
+         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">LEVEL 4:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1347,7 +1347,7 @@
          id="tspan4284-05"
          x="480.08856"
          y="132.67525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">17</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">22</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1990,27 +1990,37 @@
          x="571.52362"
          y="437.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1637">substance composed entirely </tspan><tspan
+         id="tspan1648">substance into another </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="449.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1639">of wood, stone (but not </tspan><tspan
+         id="tspan1650">substance.</tspan><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="456.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4987" /><tspan
          sodipodi:role="line"
          x="571.52362"
          y="462.41962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1643">gemstone), iron, copper, or </tspan><tspan
+         id="tspan4989"> </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
          y="474.91962"
          style="font-size:10px;line-height:1.25"
-         id="tspan1648">silver into another such </tspan><tspan
+         id="tspan4991">Elemental (Fire) Adept (feat)</tspan><tspan
          sodipodi:role="line"
          x="571.52362"
-         y="487.41962"
+         y="481.74426"
          style="font-size:10px;line-height:1.25"
-         id="tspan1650">substance.</tspan></text>
+         id="tspan4993" /><tspan
+         sodipodi:role="line"
+         x="571.52362"
+         y="481.74426"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4976" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2036,7 +2046,17 @@
          x="319.1149"
          y="632.29028"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan1228">Message</tspan></text>
+         id="tspan1228">Message</tspan><tspan
+         sodipodi:role="line"
+         x="319.1149"
+         y="647.91528"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan4970">Control Flames</tspan><tspan
+         sodipodi:role="line"
+         x="319.1149"
+         y="655.58411"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan4968" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2058,7 +2078,7 @@
          id="tspan4229-9-4-6-4-2-4-1"
          x="493.75116"
          y="682.46191"
-         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">2 / SHORT REST</tspan></text>
+         style="font-size:12.5px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373">4/3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2148,7 +2168,7 @@
          x="314.46936"
          y="38.490063"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7">Wizard : 3</tspan></text>
+         id="tspan6759-7">Wizard : 4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2312,7 +2332,12 @@
          x="534.33521"
          y="969.98712"
          style="font-size:10px;line-height:1.25"
-         id="tspan1652">100gp</tspan></text>
+         id="tspan1652">75gp</tspan><tspan
+         sodipodi:role="line"
+         x="534.33521"
+         y="982.48712"
+         style="font-size:10px;line-height:1.25"
+         id="tspan4995">&quot;Using your tongue to predict the rain&quot;</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2380,7 +2405,17 @@
          x="480.40814"
          y="732.14996"
          style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
-         id="tspan1327">Enlarge/Reduce</tspan></text>
+         id="tspan1327">Enlarge/Reduce</tspan><tspan
+         sodipodi:role="line"
+         x="480.40814"
+         y="747.77496"
+         style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
+         id="tspan4972">Pyrotechnics</tspan><tspan
+         sodipodi:role="line"
+         x="480.40814"
+         y="763.39996"
+         style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
+         id="tspan4974">Flaming sphere</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2391,21 +2426,46 @@
          x="22.129953"
          y="928.11206"
          style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1382-2">Student, presently on gap year to </tspan><tspan
+         id="tspan1656">Impoverished former noble, having been away </tspan><tspan
          sodipodi:role="line"
          x="22.129953"
          y="940.61206"
          style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1448">earn money.</tspan><tspan
-         sodipodi:role="line"
-         x="22.129953"
-         y="947.43671"
-         style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1654" /><tspan
+         id="tspan4952">from the city gathering wizard school funds as a </tspan><tspan
          sodipodi:role="line"
          x="22.129953"
          y="953.11206"
          style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan1656">Junior member of house Ptahquin of Waterdeep. </tspan></text>
+         id="tspan4954">merchants wizard when his family was banished</tspan><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="965.61206"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4956"> and assets seized.</tspan><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="972.43671"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4958"></tspan><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="972.43671"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4962" /><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="972.43671"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4960"></tspan><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="978.11206"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4964"> </tspan><tspan
+         sodipodi:role="line"
+         x="22.129953"
+         y="990.61206"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan4966">An initiate of the secret flame.  </tspan></text>
   </g>
 </svg>
