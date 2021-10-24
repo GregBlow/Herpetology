@@ -27,18 +27,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="541.90181"
-     inkscape:cy="1056.9545"
+     inkscape:cx="243.62846"
+     inkscape:cy="612.48738"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="960"
      inkscape:window-height="1017"
-     inkscape:window-x="-8"
+     inkscape:window-x="952"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136" />
@@ -1330,7 +1330,7 @@
          id="tspan4225-5"
          x="384.62918"
          y="187.19545"
-         style="font-size:10px;line-height:1.25">3d8</tspan></text>
+         style="font-size:10px;line-height:1.25">5d8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1363,7 +1363,7 @@
          id="tspan4284-05"
          x="480.08856"
          y="132.67525"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">24</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">34</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1451,7 +1451,7 @@
          id="tspan4284-0-2-9-1"
          x="37.012527"
          y="365.16003"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1462,7 +1462,7 @@
          id="tspan4284-0-2-1-4-3"
          x="116.34261"
          y="361.77579"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#808080;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1473,7 +1473,7 @@
          id="tspan4284-0-2-1-1-5-8"
          x="123.70956"
          y="387.28214"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">13</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">15</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1506,7 +1506,7 @@
          id="tspan4284-0-2-1-1-5-9"
          x="124.42384"
          y="536.7514"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">15</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#808080;fill-opacity:0.98431373">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1683,7 +1683,7 @@
          x="158.72311"
          y="473.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5568">+1</tspan><tspan
+         id="tspan5568">+2</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="485.81586"
@@ -1693,27 +1693,27 @@
          x="158.72311"
          y="498.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5536">+2</tspan><tspan
+         id="tspan5536">+0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="510.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5538">+4</tspan><tspan
+         id="tspan5538">+3</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="523.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5580">+4</tspan><tspan
+         id="tspan5580">+3</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="535.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5582">+2</tspan><tspan
+         id="tspan5582">+0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="548.31586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5584">+2</tspan><tspan
+         id="tspan5584">+0</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="560.81586"
@@ -1728,7 +1728,7 @@
          x="158.72311"
          y="585.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5590">+3</tspan><tspan
+         id="tspan5590">+4</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="598.31586"
@@ -1738,7 +1738,7 @@
          x="158.72311"
          y="610.81586"
          style="font-size:10px;line-height:1.25"
-         id="tspan5594">+3</tspan><tspan
+         id="tspan5594">+4</tspan><tspan
          sodipodi:role="line"
          x="158.72311"
          y="623.31586"
@@ -1828,7 +1828,7 @@
          id="tspan4284-0-2-1-8"
          x="162.43069"
          y="164.87727"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+2</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">+3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1933,7 +1933,7 @@
          y="299.91962"
          style="font-size:10px;line-height:1.25"
          id="tspan1839"><tspan
-   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan1853">Savage Attacks:</tspan> When you </tspan><tspan
          sodipodi:role="line"
          x="571.52362"
@@ -1980,7 +1980,12 @@
          x="439.6506"
          y="507.29025"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan4851">Level 2:</tspan></text>
+         id="tspan4851">Level 2:</tspan><tspan
+         sodipodi:role="line"
+         x="439.6506"
+         y="522.91528"
+         style="font-size:12.5px;line-height:1.25"
+         id="tspan1243">Level 3:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2051,7 +2056,7 @@
          x="302.15811"
          y="38.490063"
          style="font-size:12.5px;line-height:1.25"
-         id="tspan6759-7">Cleric (War) : 3</tspan></text>
+         id="tspan6759-7">Cleric (War) : 5</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2253,7 +2258,17 @@
          x="493.89166"
          y="507.29025"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1332">2</tspan></text>
+         id="tspan1332">3</tspan><tspan
+         sodipodi:role="line"
+         x="493.89166"
+         y="514.95911"
+         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
+         id="tspan1245" /><tspan
+         sodipodi:role="line"
+         x="493.89166"
+         y="522.91528"
+         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
+         id="tspan1247">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2269,7 +2284,12 @@
          x="505.94525"
          y="507.29025"
          style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
-         id="tspan1383">/LONG REST</tspan></text>
+         id="tspan1383">/LONG REST</tspan><tspan
+         sodipodi:role="line"
+         x="505.94525"
+         y="522.91528"
+         style="font-size:12.50000095px;line-height:1.25;stroke-width:1px"
+         id="tspan1249">/LONG REST</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2279,8 +2299,8 @@
          sodipodi:role="line"
          id="tspan4229-9-4-6-4-2-3"
          x="443.28745"
-         y="552.95294"
-         style="font-size:12.50000095px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke-width:1px">6</tspan></text>
+         y="556.40088"
+         style="font-size:12.50000095px;line-height:1.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:0.98431373;stroke-width:1px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2371,7 +2391,14 @@
          x="311.12549"
          y="762.93921"
          style="font-size:10px;line-height:1.25;stroke-width:1px"
-         id="tspan4829-4">actions to move as far away from you as possible.</tspan></text>
+         id="tspan4829-4">actions to move as far away from you as possible.</tspan><tspan
+         sodipodi:role="line"
+         x="311.12549"
+         y="775.43921"
+         style="font-size:10px;line-height:1.25;stroke-width:1px"
+         id="tspan1253"> 	<tspan
+   style="font-weight:bold"
+   id="tspan1255">Destroy Undead</tspan> (CR 1/2)</tspan></text>
     <circle
        style="display:inline;opacity:1;fill:#000000;fill-opacity:0.98431373;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98431373"
        id="path5481-7-1"
