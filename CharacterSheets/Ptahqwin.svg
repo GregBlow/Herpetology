@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="237.39789"
-     inkscape:cy="825.72963"
+     inkscape:cx="340.52991"
+     inkscape:cy="308.81342"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -40,7 +40,7 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
-     inkscape:window-y="0"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2423,7 +2423,12 @@
          x="480.40814"
          y="763.39996"
          style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
-         id="tspan4974">Flaming sphere</tspan></text>
+         id="tspan4974">Flaming sphere</tspan><tspan
+         sodipodi:role="line"
+         x="480.40814"
+         y="779.02496"
+         style="font-size:12.50000191px;line-height:1.25;stroke-width:1px"
+         id="tspan4959">Featherfall</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
