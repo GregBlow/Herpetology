@@ -27,16 +27,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="267.91792"
+     inkscape:cx="151.84649"
      inkscape:cy="688.73811"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="961"
-     inkscape:window-x="1912"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <inkscape:grid
@@ -2214,7 +2214,7 @@
          style="font-size:10px;line-height:1.25;stroke-width:1px"
          id="tspan1641"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1px"
-   id="tspan7216-6">Elritch Sight:</tspan> you can cast 'detect magic' at will, without expending a spell slot.</tspan><tspan
+   id="tspan7216-6">Eldritch Sight:</tspan> you can cast 'detect magic' at will, without expending a spell slot.</tspan><tspan
          sodipodi:role="line"
          x="318.3674"
          y="512.17615"
