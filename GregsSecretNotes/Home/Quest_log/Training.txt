@@ -1,0 +1,101 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-11-10T21:07:43+00:00
+
+====== Training ======
+Created Wednesday 10 November 2021
+
+t0 = Tahkwin, Killian, Aktra emerge in the Feywild having escaped the events of Senji
+
+Anna char introduced?
+
+group either takes a break to think about what to do, or sets off randomly. 
+
+In either case Jacinda finds them, having been told to locate the party and bring them back
+
+Jacinda was retrieved from Highgate by Eric & company as things were going bad
+
+goal is to reach the cottage Jacinda was sent from by new company to retrieve The Gang
+
+Either Jacinda can recall the path taken  (int, to check whether signs were left?) or a survival check can be done. Charisma 'PvP' to determine who gets to lead? If party decides to do nothing,, skywriting is used after an hour or so of being lost (or resting for any reason) to guide. https://www.dnd-spells.com/spell/skywrite-ritual
+
+If any sufficiently bad rolls/decisions, or Anna seems particularly keen for fighting, or it just fits the vibe (maybe incorporate into surival roll or ask 'how are you moving' to get chance to perceive and outmaneuver), encounter Owlbear (enraged) to fight see: https://roll20.net/compendium/dnd5e/Owlbear#content
+
+Meeting Eric at the (long abandoned)cottage, they're pleasant, invite party to let them know if they're ready to leave or want to linger to settle any unfinished business (isn't any, but party may wish to waste time)
+
+Finding themselves inside the long abandoned cottage, they're told to close the door and shutters on the windows. Various magical paraphernalia is about (candles burning, arcane sigils drawn). Eric asks for people to variously not be too mindful of the surroundings and contribute miscellaneous magicness to the atmosphere. Ask players how they variously contribute and/or space out. Tries opening shutters a few times, sighs at at least one failure, then satisfied at a success. Focusing  in again the room looks noticably different, longer, and with a door at each end. 
+
+As Eric explains basis of what they've done (increasing uncertainty quotient to destablise dimensional resolution) the gang can look out windows and see an apparently perfectly flat, duneless desert of black sand with glinting lines of silver at ground level embroidering it. Sky above has terrifyingly large lumps of rock, mountainesque, peeking through a deep purple cloud cover. Players may opt to roll religion or arcana to deduce they are on the Astral plane.  Doors of this room are locked from inside (safety measure) using Arcane Lock https://www.dnd-spells.com/spell/arcane-lock
+
+Leaving the 'room', describe a train without using the words 'train' or 'carriage', the next carriage entered should be a library/basic lab/study type room that has, among other things, the Aristotelian (knowledge god instead? maybe Killian's patron, patron of occluded knowledge?) telescope, resembling a wooden filing cabinet with many drawers of index cards and a loading mechanism. Brass would probably be good if a bit predictable.
+
+Other accoutrements:
+
+a globe, but unrecognisable. Levitating geological samples. A bunsen burner that makes things sad. A refracting prism that doesn't work properly (rainbow is not ordered properly)
+
+They can find the Kenku navigator (bard, knowledge) here. Their name is _____ (Gamellan maybe? Easy to remember). Explain weird Kenku curse depriving creativity, explain the nonsensicalness of that, and offer brief countertheory.
+
+It is explained that "sOmEThiNG SeEMs to hAVe hApPenEd in sS'tTHar'TISS'sunn" and Eric wants to go investigate. If Eric can be persuaded of the truth of the bombing he'll want to 'recover' artifacts and books.
+
+Explain that the telescope is 'how we're going to get there' and have players do a poetry puzzle to describe ss'thar'tiss'sunn, using highgate as an example (from when Jacinda was collected), have a dial indicate percentage certainty depending on how much fun people are having
+
+Once destination locked in, move to locomotive (unless people want to rest, in which case to living quarters then back here with anyone interested. Explain that Astral plane is very rich in time, which can be combusted atmospherically (indicate book that FORESHADOWED!1! this) in a blue flame, which has the dual effect of degrading to pure kinetic energy, which drives the energy, and creating a bubble which distorts the usual behaviour of the astral plane causing the effects of time (such as aging) to be nullified and in fact accelerates the msuch that time passes here much faster, such that one can travel about relatively instantaneously
+
+to living quarters, which is presently just a carriage of a common area and two partitioned private rooms, but it has beanbags plenty of space, furnishing materials (incase someone wants to build themselves an annex or a bed or just to communicate self-built nature) and a small armoury. Explain dreamlessness (since in astral plane, realm of dreams) allow people to buy things. Would be a good idea to figure out how uch money people have first?
+
+possible encounter: 
+
+a hazy night capped and gowned figure in slippers (it's Gui but don't make this clear) at this point is running across the desert pursued by a gigantic domestic cat (or maybe a big friendly looking snake, if Jam takes to the weremongoose idea), proportioned as a normal house cat would be. If anyone proposes to interact have Eric explain that what they're seeing is a dream, and  it is a bad idea to interfere in someone's dream. No one will complain this is ripped from Adventure time.
+
+figure finds a wedge of cheese and bites into it, causing another identical figure to pop into existence, and then another, and an exponential rate, until they are able to swarm the giant cat and turn the tide, foring into a great dogpile of nightcapped and gowned figures which then sinks and fades leaving behind nothing
+
+possible encounter: 
+
+a goliath tendril is seen by one ① person through the cloud cover before disappearing again. No further sightings
+
+Upon reaching the destination the train (conveyance?) will brake, and Eric will encourage everyone to the teleposition carriage, however, repeated attempts to destabilise will fail, eventually someone will wonder, roll for initiative 
+
+https://dnd-5e.herokuapp.com/monsters/displacer-beast
+
+This beast is functionally immortal, however, if it can be reduced to 0 and either pushed out a window (which will need to be unlatched as an action) or into a convenient box, it can be put into a state whereby it cannot be observe if it is alive or dead ( ͡° ͜ʖ ͡°)
+
+if anyone questions what to do with it if they open the box, explain that it won't necessarily be there at all when they return due to the nature of the place
+
+ a short rest is suggested, if taken, upon ending it is found that the room looks a lot stonier then they remembered, if windows are opened they will find they are cupboards with books in (full sized, weirdly), and one of the doors is missing, upon leaving they'll find they were in the books on animals annex of the university library basement room. A spiral staircase in the middle can be seen ascending towards a hole in the ceiling, but does not terminate and only sky can be seen above
+
+STAY IN THE LIBRARY OR NOT?
+
+STAY
+
+Find refugee?
+help Eric (who is staying) look for valuable bits
+
+If stay, get captured by marauding yellows and taken to camp 
+
+ LEAVE
+
+emerging into the daylight (whether escorted or not) a levelled wasteland can be seen, from the perspective of the side of a massive crater (very regular, if anyone cares to look). One can see basements and sewer pipes exposed, 
+
+there isn't any rubble but don't mention in case anyone asks
+
+a thin layer of black powder (actually very fine sand, from astral plane) covers the ground evenly but can be scuffed/blown away and so has piled up where blown by the wind, and there is a lively growth of tropical plants everywhere. Hopefully someone will comment and you can ask for a nature check to confirm this is unaturally fecund
+
+If the party left of their own volition they can see the yellows go into the library behind them
+
+mix lizardfolk with berserker for level appropriate overwhelming force (5*)
+
+Ptackhuin at least is captured
+
+...
+
+...
+
+Najaran millenarian priest is, very antisocially, sacrificing people (in this instance yellows), and as long as party is watching points at tarquin to summon the next sacrifice, but takes gravel out of ptarkins backback and breaks with a hammer. Gravel crumbles into a powder. RIP gravel.
+
+Monologue about weilding the power of antisocial behaviour, then boss fight 
+
+
+
+
+
+
